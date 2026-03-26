@@ -372,7 +372,9 @@ Contributions are welcome! Feel free to:
 ## 👨‍💻 Author
 
 **Mahmoud7111**
+**omar-abass**
 - GitHub: [@Mahmoud7111](https://github.com/Mahmoud7111)
+- GitHub:omar-abass
 
 ---
 
